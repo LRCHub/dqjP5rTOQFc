@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Give In to Me",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-02-24T03:16:43.527265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give in to Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Give_in_to_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give In To Me",
+      "artist": "Soto",
+      "has_synced": false,
+      "path": "select/02_Give_In_To_Me_Soto.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give In to Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Give_In_to_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give In To Me",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/04_Give_In_To_Me_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give In To Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Give_In_To_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give In to Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Give_In_to_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give in to Me",
+      "artist": "Lika Morgan",
+      "has_synced": true,
+      "path": "select/07_Give_in_to_Me_Lika_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give In to Me",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Give_In_to_Me_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give In To Me",
+      "artist": "Jackson, Michael",
+      "has_synced": true,
+      "path": "select/09_Give_In_To_Me_Jackson,_Michael.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give In To Me",
+      "artist": "Banarama",
+      "has_synced": false,
+      "path": "select/10_Give_In_To_Me_Banarama.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give In To Me",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Give_In_To_Me_Michael_Jackson.txt"
+    }
+  ]
+}
